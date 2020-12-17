@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer with more than 7 years of doing back-end development using C#. My repositories are collections of self-learning codes.
+I have been programming in C# since 2013 and have created projects from scratch on either web or Windows-based applications. My repositories are collections of self-learning codes.
 
 📫 How to reach me:
 
