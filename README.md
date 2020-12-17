@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software developer with more than 7 years of doing back-end development using C#. My repositories are collections of self-learning codes for different technologies.
+
+📫 How to reach me:
+
+[![LinkedIn (blue)](https://img.shields.io/badge/linkedin-joseph%20ross%20cajulis-blue)](https://www.linkedin.com/in/joseph-ross-cajulis-72619b112/)
+
 <!--
 **jrossc/jrossc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
