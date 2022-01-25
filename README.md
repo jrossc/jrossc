@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have been programming in C# since 2013 and have created projects from scratch on either web or Windows-based applications. My repositories are collections of self-learning codes.
+I have been programming in C# since 2013 and have created projects from scratch on either web or Windows desktop applications. My repositories are collections of self-learning codes and proof of concept developments.
 
 📫 How to reach me:
 
